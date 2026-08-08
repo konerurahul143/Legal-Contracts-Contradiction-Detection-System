@@ -95,8 +95,8 @@ class ContradictionDetector:
 
     def detect_contradictions(
         self,
-        top_k=5,
-        contradiction_threshold=0.2
+        top_k=10,
+        contradiction_threshold=0.4
     ):
         """
         Detect contradictions between uploaded documents using

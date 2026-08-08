@@ -81,8 +81,8 @@ if st.button("🚀 Detect Contradictions", use_container_width=True):
 
         status.info("⚖️ Detecting contradictions...")
         contradictions = detector.detect_contradictions(
-            top_k=5,
-            contradiction_threshold=0.70
+            top_k=10,
+            contradiction_threshold=0.40
         )
         progress.progress(100)
 
