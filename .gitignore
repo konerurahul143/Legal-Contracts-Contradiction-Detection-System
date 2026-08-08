@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.pdf
+.streamlit/
+*.tmp
+models/deberta_contractnli_best/model.safetensors
