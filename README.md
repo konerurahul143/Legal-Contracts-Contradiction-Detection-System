@@ -12,5 +12,7 @@ The objective of this project is to build an end-to-end system that automaticall
 
 The system is designed to reduce the manual effort required to review large volumes of legal documents and help legal teams and organizations efficiently identify and review potential contradictions.
 
+## WORKFLOW
 
+![Project Workflow](assets/workflow.png)
 
