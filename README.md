@@ -22,11 +22,11 @@ The system is designed to reduce the manual effort required to review large volu
 
 ![Final Model Evaluation](assets/final_metrics.png)
 
-### Threshold Tuning
-
-![Threshold Tuning Results](assets/threshold_results.png)
-
 ### Threshold Analysis
 
 ![Threshold Analysis](assets/threshold_plot.png)
+
+### Threshold Results
+
+![Threshold Tuning Results](assets/threshold_results.png)
 
